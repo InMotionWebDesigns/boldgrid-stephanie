@@ -19,3 +19,5 @@ Designed specifically for use with the BoldGrid suite of plugins, all BoldGrid t
 3. Click Activate to use your new theme right away.
 
 joe's addition
+
+stephanie's changes are here
